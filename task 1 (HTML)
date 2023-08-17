@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Borel&family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Borel&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="main">
+        <div id="r1">
+            <div class="r1r1">
+                <div class="r1c1"><b><font color="#ffffff">GAU</font>RINA</b></div>
+                <div class="r1c2"><a href="#r2r5" class="up"><b>CONTACT</b></a></div>
+                <div class="r1c2"><a href="experience.html" class="up"><b>EXPERIENCE</b></a></div>
+                <div class="r1c2"><a href="portfolio.html" class="up"><b>PORTFOLIO</b></a></div>
+                <div class="r1c2"><a href="#r2r2" class="up"><b>SKILLS</b></a></div>
+                <div class="r1c2"><a href="#r2" class="up"><b>ABOUT</b></a></div>
+                <div class="r1c2"><a href="#r1" style="color: black;" class="up"><b>HOME</b></a></div>
+            </div>
+            <div class="r1r2"></div>
+            <div class="r1r3">
+                <div class="r1c3">
+                    <div class="imgpart">
+                      <img src="c:\Users\GAURINA JAISWAL\Dropbox\PC\Desktop\task01\mee.jpg" class="mee">
+                    </div>
+                    <div class="txtpart">
+                        <div class="txt1">
+                            I'm Gaurina
+                        </div>
+                        <div class="txt2">
+                            Web Developer
+                        </div>
+                        <div class="txt3">
+                            <div class="logo"><a href="facbook.com" target="_blank"><i class="fa-brands fa-facebook-f" style="color: #ffffff;"></i></a></div>
+                            <div class="logo"><a href="https://instagram.com/gaurina.jais_13?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+                                <i class="fa-brands fa-instagram" style="color: #ffffff;"></i></a></div>
+                            <div class="logo"><a href="https://www.linkedin.com/in/gaurina-jaiswal-b15271259" target="_blank">
+                                <i class="fa-brands fa-linkedin-in" style="color: #ffffff;"></i></a></div>
+                            <div class="logo"><a href="https://twitter.com/GaurinaJaiswal?t=BmxCtG8Hwf5yS8banc0isw&s=08" target="_blank">
+                                <i class="fa-brands fa-twitter" style="color: #ffffff;"></i></a></div>
+                            <div class="logo"><a href="pinterest.com" target="_blank"><i class="fa-brands fa-pinterest-p" style="color: #ffffff;"></i></a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="r2">
+            <div class="r2r1">
+                <div class="r2r11">
+                 <div class="r1img">
+                    <img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer.jpg">
+                 </div>
+                 <div class="r1txt">
+                    <h1>ABOUT ME</h1><br>
+                    <p>I am <b>Gaurina Jaiswal</b>, currently pursuing B.Tech speciality in Computer Science and Engineering at Deen Dayal Upadhyaya, 
+                       Gorakhpur. I am simple, creative, enthusiastic, and fun-loving person. I always like to create something on my own which
+                       is helpful for others.</p><br>
+                    <p>I have experiences in working with HTML5, CSS3, JavaScript and so on. I love to explore new things regarding webpage development, 
+                        websites and just wanted to build a strong carrier in this field.
+                    </p>
+                 </div>
+                </div>
+            </div>
+            <div id="r2r2"></div>
+            <div class="r2r3">
+                <div class="r2r31">
+                    <div class="r3txt">
+                        <h1>SKILLS</h1><br>
+                        <p><b>HTML :</b></p>
+                        <div class="m1">
+                          <div class="m01"><meter min="0" max="100" value="90"></meter></div><div class="m02"><p>90%</p></div>
+                        </div>
+                        <p><b>JAVASCRIPT :</b></p>
+                        <div class="m1">
+                          <div class="m01"><meter min="0" max="100" value="60"></meter></div><div class="m02"><p>60%</p></div>
+                        </div>
+                        <p><b>CSS :</b></p>
+                        <div class="m1">
+                          <div class="m01"><meter min="0" max="100" value="75"></meter></div><div class="m02"><p>75%</p></div>
+                        </div>
+                    </div>
+                    <div class="r3img">
+                        <img src="https://img.freepik.com/free-vector/web-development-concept-with-programmer-ar_107791-17049.jpg?w=2000"
+                          style="height: 300px; width: 500px;">
+                    </div>
+                </div>
+            </div>
+            <div class="r2r4"></div>
+            <div id="r2r5">
+                <div class="container">
+                    <div class="title"><b>CONTACT ME!</b></div>
+                    <div class="form">
+                        <form action="#">
+                            <div class="userdetails">
+                                <div class="inputbox">
+                                    <span class="details">Full Name</span>
+                                    <input type="text" placeholder="Enter your name" required>
+                                </div>
+                                <div class="inputbox">
+                                    <span class="details">Email Address</span>
+                                    <input type="text" placeholder="Enter your email" required>
+                                </div>
+                                <div class="inputbox">
+                                    <span class="details">Mobile Number</span>
+                                    <input type="text" placeholder="Enter your mobile no." required>
+                                </div>
+                                <div class="inputbox">
+                                    <span class="details">Your Query</span>
+                                    <input type="text" placeholder="Enter your query" required>
+                                </div>
+                            </div>
+                            <div class="genderdetails">
+                                <input type="radio" name="gender" id="dot-1">
+                                <input type="radio" name="gender" id="dot-2">
+                                <input type="radio" name="gender" id="dot-3">
+                                <span class="gendertitle">Gender</span>
+                                <div class="category">
+                                    <label for="dot-1">
+                                        <span class="dot one"></span>
+                                        <span class="gender">Male</span>
+                                    </label>
+                                    <label for="dot-2">
+                                        <span class="dot two"></span>
+                                        <span class="gender">Female</span>
+                                    </label>
+                                    <label for="dot-3">
+                                        <span class="dot three"></span>
+                                        <span class="gender">Other</span>
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="button">
+                                <input type="submit" value="Send Message">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
